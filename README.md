@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
-This is a demo project based on the Udemy lecture by Jaon Taylor.
+This is a demo project based on the Udemy lecture by Jaon Taylor. There are around 80 video lectures in this tutorial.
 
 ## Purpose
 
