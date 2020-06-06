@@ -8,8 +8,10 @@ This is a demo project based on the Udemy lecture by Jaon Taylor. There are arou
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. It is also a demo for git and github lectures.
 
 ## Deployment
+
+This project can be deployed on a server or your local file system.
 
 ## How To Contribute
