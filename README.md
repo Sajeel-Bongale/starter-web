@@ -15,3 +15,7 @@ Sample website with plenty of files for demos. It is also a demo for git and git
 This project can be deployed on a server or your local file system.
 
 ## How To Contribute
+
+### Copyright
+
+Copyright Sajeel Bongale
