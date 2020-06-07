@@ -16,6 +16,8 @@ This project can be deployed on a server or your local file system.
 
 ## How To Contribute
 
+Please fork this repository and then create a Pull request.
+
 ### Copyright
 
 Copyright Sajeel Bongale
