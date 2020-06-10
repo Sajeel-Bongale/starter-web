@@ -20,4 +20,4 @@ Please fork this repository and then create a Pull request.
 
 ### Copyright
 
-Copyright Sajeel Bongale
+Copyright Sajeel Bongale. All rights reserved.
