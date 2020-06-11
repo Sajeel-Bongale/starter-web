@@ -1,7 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Adding some text for the use of rebasing example, then adding some more changes from myfeature.
-
+This repository is for showing how Git and GitHub work. Quick fix on readme after stash.
 ## Introduction
 
 This is a demo project based on the Udemy lecture by Jaon Taylor. There are around 80 video lectures in this tutorial.
